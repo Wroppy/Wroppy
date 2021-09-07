@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Wroppy
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on some code.
-- 📫 How to reach me through code.
 
 <!---
 Wroppy/Wroppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
