@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Weyman
 
-🎓 I'm a forth year Software Engineering and Applied mathematics conjoint student at the University of Auckland.
+🎓 I'm a fourth year Software Engineering and Applied mathematics conjoint student at the University of Auckland.
 
 🔧 I enjoy building tools and software that make life easier, or more fun.
 
